@@ -54,3 +54,7 @@ The database contains five main tables:
                                       description.
   -----------------------------------------------------------------------
 
+
+
+<img width="1247" height="662" alt="image" src="https://github.com/user-attachments/assets/3d56d094-2d54-4aea-a0d8-b791c04f4578" />
+
